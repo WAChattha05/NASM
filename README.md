@@ -1,15 +1,14 @@
 # NASM**
 #here you will find full information with screenshots
 https://github.com/WaleedAkramChattha/NASM/tree/main/nasm
+
+
+
 COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE
-NAME : 		
-			WALEED AKRAM
-ROLL NO :
-			20P-0640
-SECTION : 
-			2-B
-INSTRUCTOR : 
-			DR.USMAN ABBASI
+NAME : WALEED AKRAM
+ROLL NO :20P-0640
+SECTION : 2-B
+INSTRUCTOR : DR.USMAN ABBASI
 							
 							
 ASSEMBLY  LANGUAGE
