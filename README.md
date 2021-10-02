@@ -1,4 +1,6 @@
-# NASM
+# NASM**
+#here you will find full information with screenshots
+https://github.com/WaleedAkramChattha/NASM/tree/main/nasm
 COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE
 NAME : 		
 			WALEED AKRAM
