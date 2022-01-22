@@ -1,0 +1,20 @@
+# To set up in Ubuntu 20.04+  
+
+
+    # Install Doxbox  
+    sudo apt install dosbox 
+    dosbox 
+
+    # Inside dosbox (give it some path in your host machine) 
+    # Put extracted contents of the zip file and .asm files in this folder on your host machine lets say folder name is assembly
+    
+    mount c /home/name/assembly 
+
+    c: 
+
+    # Assemble and run 
+    nasm c01-01.asm -o c01-01.com 
+    afd c01-01.com 
+
+    # Assemble with Listing 
+    nasm c01-01.asm -l c01-01.lst -o c01-01.com 
